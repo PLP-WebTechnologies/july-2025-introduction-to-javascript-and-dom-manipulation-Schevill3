@@ -1,63 +1,40 @@
-# 🚀 Assignment: Mastering JavaScript Fundamentals
+# JavaScript Fundamentals Assignment
 
-Welcome to your next step toward JavaScript mastery! In this assignment, you'll explore essential concepts that form the backbone of interactive, dynamic web pages—functions, loops, and the Document Object Model (DOM). Ready to code like a pro? Let’s dive in.
+## Overview
+This project demonstrates the basics of JavaScript, including variables, conditionals, functions, loops, and DOM manipulation.  
+It is structured into four parts and is designed to be beginner-friendly.
 
----
+## Files
+- **index.html** → Main HTML file with structure and placeholders for JavaScript output
+- **style.css** → Simple CSS for styling and highlighting
+- **script.js** → JavaScript code containing all assignment tasks
+- **README.md** → This documentation file
 
-## 🎯 Part 1: Mastering JavaScript Basics
+## Parts Covered
 
-Start with the building blocks of JavaScript—variables, data types, operators, and conditionals. You’ll write a few simple programs that capture user input, make decisions using `if/else`, and output results using `console.log()` or by modifying the webpage content.
+### Part 1: Basics
+- Variables and conditionals
+- Example: Checking if a user is an adult or minor
 
-**Goal:** Demonstrate your understanding of how JavaScript flows, processes logic, and interacts with data.
+### Part 2: Functions
+- Custom function to calculate totals
+- Custom function to greet the user
 
----
+### Part 3: Loops
+- `for` loop to display numbers
+- `while` loop for a countdown
 
-## ❤️ Part 2: JavaScript Functions — The Heart of Reusability
+### Part 4: DOM Manipulation
+- Change text when a button is clicked
+- Toggle highlight class on a paragraph
+- Add new list items dynamically
 
-Functions are your best friends in programming. Write a few custom functions that take inputs, process them, and return or display results. You’ll also create functions for common tasks (like calculating totals, formatting strings, or toggling content).
-
-**Goal:** Build reusable blocks of logic that make your code cleaner, smarter, and DRY (Don't Repeat Yourself).
-
----
-
-## 🔁 Part 3: JavaScript Loops — Embrace the Power of Repetition!
-
-Use `for`, `while`, or `forEach` loops to solve repetitive tasks like iterating through arrays, generating dynamic content, or simulating simple countdowns or animations.
-
-**Goal:** Practice controlling flow with repetition and iteration—key to working with lists, animations, and form elements.
-
----
-
-## 🌐 Part 4: Mastering the DOM with JavaScript
-
-It’s time to bring your page to life! Use JavaScript to select elements, respond to user actions, and dynamically update the content of your web page. Tasks may include changing text, toggling classes, listening to click events, or creating elements on the fly.
-
-**Goal:** Show your skill in making a static HTML page interactive using pure JavaScript and DOM manipulation.
-
----
-
-## Deliverables
-
-* A single project folder containing:
-
-  * `index.html` — your structured HTML content
-  * `style.css` — (optional) if you'd like to style your content
-  * `script.js` — your JavaScript file including:
-
-    * Variable declarations and conditionals (Part 1)
-    * At least 2 custom functions (Part 2)
-    * At least 2 loop examples (Part 3)
-    * At least 3 DOM interactions (Part 4)
-
-Each part of the assignment should be clearly commented and organized.
+## How to Run
+1. Download the project folder (or extract the ZIP file).
+2. Open **index.html** in your browser.
+3. Interact with the page and check the console for outputs.
 
 ---
 
-## Outcome
-
-* Clear understanding of variables, conditionals, functions, loops, and DOM methods
-* Code readability and comments explaining your logic
-* Effective use of functions and loops to reduce repetition
-* DOM manipulation that improves interactivity
-* Clean structure and consistent indentation
-
+**Author:** Student Submission  
+**Course:** JavaScript Fundamentals
